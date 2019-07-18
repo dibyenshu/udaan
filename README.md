@@ -1,4 +1,5 @@
 # udaan
 udaan challenge app
-Video will be updated by the end of 19-07-2019 2 a.m.
-Sorry for sharing the working this way.
+The video for the demo of the backend is named "demo of the backend"
+<br/>
+other instructions to setup the api and the database has been written in the readme.txt
