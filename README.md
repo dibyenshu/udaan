@@ -1,5 +1,5 @@
-# udaan
-udaan challenge app:
-The video for the demo of the backend is named "demo of the backend"
+Link for demo of the API:
 <br/>
-other instructions to setup the api and the database has been written in the readme.txt
+"https://drive.google.com/open?id=1zpgwPPHiaFKwjQy_dnMpCu-HhFQvvb4l"
+<br/>
+other important info regarding settin up the databse and server can be found in the readme.txt
